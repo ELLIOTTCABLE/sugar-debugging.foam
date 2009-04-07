@@ -16,6 +16,6 @@
 literal { color: rgba(25, 175, 25, 1.00); }
 identifier { color: rgba(150, 0, 0, 1.00); }
 keyword { color: rgba(50, 0, 150, 1.00); }
-container { background: rgba(255, 255, 50, 0.33); }
+container { background: rgba(255, 255, 50, 0.15); }
 operator, delimiter { color: rgba(50, 225, 225, 1.00); }
 metadata { color: rgba(63.75, 63.75, 63.75, 0.66); }
