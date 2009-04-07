@@ -11,7 +11,7 @@
 }
 
 /* Any "name" element - which should be a capture - will be hilighted */
-/* name { background: rgba(255, 150, 150, 1.00); } */
+name { background: rgba(255, 150, 150, 1.00); }
 
 literal { color: rgba(25, 175, 25, 1.00); }
 identifier { color: rgba(150, 0, 0, 1.00); }
