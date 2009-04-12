@@ -1,13 +1,13 @@
 /*
-	@theme Sugar Debugging
-	@override-placeholders html, xml, css, sourcecode.js
+  @theme Sugar Debugging
+  @override-placeholders html, xml, css, sourcecode.js
 */
 
 @base {
-	color: #000000;
-	background-color: #FFFFFF;
-	insertion-point-color: #000000;
-	selection-background-color: default;
+  color: #000000;
+  background-color: #FFFFFF;
+  insertion-point-color: #000000;
+  selection-background-color: default;
 }
 
 /* Any "name" element - which should be a capture - will be hilighted */
